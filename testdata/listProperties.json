@@ -1,0 +1,75 @@
+{
+  "data": [
+    {
+      "slug": "example-coworking-mitte",
+      "title": "Example Coworking Mitte",
+      "countryCode": "DE",
+      "city": {
+        "slug": "berlin",
+        "name": "Berlin"
+      },
+      "zone": {
+        "slug": "mitte",
+        "name": "Mitte"
+      },
+      "operator": {
+        "slug": "example-operator",
+        "name": "Example Operator"
+      },
+      "coordinates": {
+        "lat": 52.5251,
+        "lng": 13.4019
+      },
+      "fromPrice": {
+        "amount": 290,
+        "currency": "EUR"
+      },
+      "fromBillingPeriod": "month",
+      "featured": false,
+      "updatedAt": "2026-09-28T10:15:00Z",
+      "excerpt": "Bright private offices two minutes from the U-Bahn, with meeting rooms on every floor.",
+      "images": [
+        {
+          "url": "https://coworkingview.com/og-image.png",
+          "width": 1200,
+          "height": 630,
+          "alt": "Open-plan coworking floor with desks by the window"
+        }
+      ],
+      "amenities": [
+        "wifi",
+        "coffee",
+        "meeting_rooms",
+        "access_24_7"
+      ],
+      "capacity": 12,
+      "capacity_status": "confirmed",
+      "marketPosition": {
+        "verdict": "around",
+        "median": {
+          "amount": 310,
+          "currency": "EUR"
+        },
+        "sampleSize": 24
+      }
+    }
+  ],
+  "meta": {
+    "contractVersion": "1.0.0",
+    "pagination": {
+      "page": 1,
+      "pageSize": 2,
+      "total": 1,
+      "pageCount": 1
+    },
+    "seed": 482913,
+    "citation": {
+      "source": "CoworkingView",
+      "title": "Coworking spaces in Berlin",
+      "url": "https://coworkingview.com/en/coworking/berlin",
+      "accessed": "2026-10-01",
+      "text": "Source: CoworkingView — Coworking spaces in Berlin, https://coworkingview.com/en/coworking/berlin."
+    },
+    "catalogueNotice": "Catalogue content (descriptions, images, logos, names and prices) belongs to the respective operators and rights holders. No licence to reuse it is granted. You may link to listing pages. Systematic extraction or re-use of the catalogue database is not permitted."
+  }
+}

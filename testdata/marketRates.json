@@ -1,0 +1,51 @@
+{
+  "data": {
+    "cities": [
+      {
+        "city": {
+          "slug": "berlin",
+          "name": "Berlin"
+        },
+        "countryCode": "DE",
+        "currency": "EUR",
+        "byType": [
+          {
+            "optionType": "flex_desk",
+            "median": {
+              "amount": 250,
+              "currency": "EUR"
+            },
+            "min": {
+              "amount": 150,
+              "currency": "EUR"
+            },
+            "max": {
+              "amount": 420,
+              "currency": "EUR"
+            },
+            "sampleSize": 24
+          }
+        ],
+        "dayPass": {
+          "median": {
+            "amount": 25,
+            "currency": "EUR"
+          },
+          "sampleSize": 11
+        },
+        "sampleSize": 30
+      }
+    ],
+    "totalProperties": 30,
+    "totalPricePoints": 61,
+    "asOf": "2026-10-01T06:00:00Z",
+    "license": "CC-BY-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution": "Source: CoworkingView Price Index (https://www.coworkingview.com/en/tools/price-index), as of October 2026. Licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Aggregated figures only; no endorsement by CoworkingView or any operator is implied.",
+    "scope": "This licence covers the CoworkingView Price Index and catalogue data in this dataset: prices and price statistics, space and operator names, and descriptions written by CoworkingView. It does not cover, and this dataset does not contain: photos, logos, reviews or ratings, data obtained from Google, or any other content of coworkingview.com, its API or MCP server, which remain subject to their own terms. Names are included for identification only; no trademark rights in CoworkingView or operator names and marks are licensed.",
+    "copyright": "Source: CoworkingView Price Index (https://www.coworkingview.com/en/tools/price-index), as of October 2026. Licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Aggregated figures only; no endorsement by CoworkingView or any operator is implied."
+  },
+  "meta": {
+    "contractVersion": "1.0.0"
+  }
+}

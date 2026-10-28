@@ -1,0 +1,37 @@
+{
+  "data": {
+    "countries": [
+      {
+        "slug": "germany",
+        "name": "Germany",
+        "code": "DE",
+        "propertyCount": 40
+      }
+    ],
+    "cities": [
+      {
+        "slug": "berlin",
+        "name": "Berlin",
+        "countryCode": "DE",
+        "propertyCount": 32,
+        "center": {
+          "lat": 52.52,
+          "lng": 13.405
+        },
+        "zones": [
+          {
+            "slug": "mitte",
+            "name": "Mitte",
+            "propertyCount": 14
+          }
+        ]
+      }
+    ],
+    "currencies": {
+      "DE": "EUR"
+    }
+  },
+  "meta": {
+    "contractVersion": "1.0.0"
+  }
+}

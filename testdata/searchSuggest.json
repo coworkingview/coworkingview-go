@@ -1,0 +1,30 @@
+{
+  "data": [
+    {
+      "kind": "zone",
+      "slug": "mitte",
+      "label": "Mitte",
+      "sublabel": "Berlin",
+      "center": {
+        "lat": 52.52,
+        "lng": 13.4
+      },
+      "propertyCount": 14
+    },
+    {
+      "kind": "property",
+      "slug": "example-coworking-mitte",
+      "label": "Example Coworking Mitte",
+      "sublabel": "Mitte, Berlin"
+    }
+  ],
+  "meta": {
+    "contractVersion": "1.0.0",
+    "pagination": {
+      "page": 1,
+      "pageSize": 5,
+      "total": 2,
+      "pageCount": 1
+    }
+  }
+}

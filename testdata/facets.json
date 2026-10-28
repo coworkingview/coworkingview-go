@@ -1,0 +1,55 @@
+{
+  "data": {
+    "facets": [
+      {
+        "key": "zone",
+        "label": "Neighbourhood",
+        "values": [
+          {
+            "value": "mitte",
+            "label": "Mitte",
+            "count": 14
+          },
+          {
+            "value": "kreuzberg",
+            "label": "Kreuzberg",
+            "count": 9
+          }
+        ]
+      },
+      {
+        "key": "pricingOptionType",
+        "label": "Workspace type",
+        "values": [
+          {
+            "value": "private_office",
+            "label": "Private office",
+            "count": 21
+          },
+          {
+            "value": "flex_desk",
+            "label": "Flex desk",
+            "count": 18
+          }
+        ]
+      }
+    ],
+    "priceRange": {
+      "min": {
+        "amount": 150,
+        "currency": "EUR"
+      },
+      "max": {
+        "amount": 2400,
+        "currency": "EUR"
+      }
+    },
+    "capacityRange": {
+      "min": 1,
+      "max": 60
+    }
+  },
+  "meta": {
+    "contractVersion": "1.0.0"
+  }
+}

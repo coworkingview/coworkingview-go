@@ -1,0 +1,80 @@
+{
+  "data": {
+    "slug": "example-coworking-mitte",
+    "title": "Example Coworking Mitte",
+    "countryCode": "DE",
+    "city": {
+      "slug": "berlin",
+      "name": "Berlin"
+    },
+    "zone": {
+      "slug": "mitte",
+      "name": "Mitte"
+    },
+    "operator": {
+      "slug": "example-operator",
+      "name": "Example Operator"
+    },
+    "coordinates": {
+      "lat": 52.5251,
+      "lng": 13.4019
+    },
+    "fromPrice": {
+      "amount": 290,
+      "currency": "EUR"
+    },
+    "fromBillingPeriod": "month",
+    "featured": false,
+    "updatedAt": "2026-09-28T10:15:00Z",
+    "description": "A four-floor coworking building in Mitte with private offices for 2–12 people, fixed and flexible desks, and bookable meeting rooms.",
+    "address": "Example Straße 1, 10115 Berlin",
+    "images": [
+      {
+        "url": "https://coworkingview.com/og-image.png",
+        "width": 1200,
+        "height": 630,
+        "alt": "Open-plan coworking floor with desks by the window"
+      }
+    ],
+    "amenities": [
+      "wifi",
+      "coffee",
+      "meeting_rooms",
+      "access_24_7"
+    ],
+    "capacity": 12,
+    "capacity_status": "confirmed",
+    "pricingOptions": [
+      {
+        "optionType": "flex_desk",
+        "title": "Flex desk",
+        "price": {
+          "amount": 290,
+          "currency": "EUR"
+        },
+        "priceOnRequest": false,
+        "billingPeriod": "month"
+      },
+      {
+        "optionType": "private_office",
+        "title": "Private office (4 people)",
+        "priceOnRequest": true,
+        "billingPeriod": "month",
+        "minCapacity": 4,
+        "maxCapacity": 4
+      }
+    ],
+    "webUrl": "https://coworkingview.com/en/workspace/example-coworking-mitte"
+  },
+  "meta": {
+    "contractVersion": "1.0.0",
+    "citation": {
+      "source": "CoworkingView",
+      "title": "Example Coworking Mitte",
+      "url": "https://coworkingview.com/en/workspace/example-coworking-mitte",
+      "accessed": "2026-10-01",
+      "text": "Source: CoworkingView — Example Coworking Mitte, https://coworkingview.com/en/workspace/example-coworking-mitte."
+    },
+    "catalogueNotice": "Catalogue content (descriptions, images, logos, names and prices) belongs to the respective operators and rights holders. No licence to reuse it is granted. You may link to listing pages. Systematic extraction or re-use of the catalogue database is not permitted."
+  }
+}

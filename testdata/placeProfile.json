@@ -1,0 +1,45 @@
+{
+  "data": {
+    "kind": "zone",
+    "slug": "mitte",
+    "name": "Mitte",
+    "shortDescription": "Berlin's central district, with the densest choice of flexible offices in the city.",
+    "faqs": [
+      {
+        "question": "Is Mitte well connected?",
+        "answer": "Yes — S-Bahn, U-Bahn and tram lines meet at several hubs."
+      }
+    ],
+    "propertyCount": 14,
+    "priceRange": {
+      "min": {
+        "amount": 180,
+        "currency": "EUR"
+      },
+      "max": {
+        "amount": 2400,
+        "currency": "EUR"
+      }
+    },
+    "center": {
+      "lat": 52.52,
+      "lng": 13.4
+    },
+    "parent": {
+      "slug": "berlin",
+      "name": "Berlin"
+    },
+    "asOf": "2026-10-01T06:00:00Z"
+  },
+  "meta": {
+    "contractVersion": "1.0.0",
+    "citation": {
+      "source": "CoworkingView",
+      "title": "Coworking spaces in Mitte",
+      "url": "https://coworkingview.com/en/coworking/berlin/mitte",
+      "accessed": "2026-10-01",
+      "text": "Source: CoworkingView — Coworking spaces in Mitte, https://coworkingview.com/en/coworking/berlin/mitte."
+    },
+    "catalogueNotice": "Catalogue content (descriptions, images, logos, names and prices) belongs to the respective operators and rights holders. No licence to reuse it is granted. You may link to listing pages. Systematic extraction or re-use of the catalogue database is not permitted."
+  }
+}

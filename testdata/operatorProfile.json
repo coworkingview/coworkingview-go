@@ -1,0 +1,37 @@
+{
+  "data": {
+    "slug": "example-operator",
+    "name": "Example Operator",
+    "tagline": "Flexible offices in central Berlin.",
+    "description": "Example Operator runs coworking buildings with private offices and flexible desks.",
+    "faqs": [
+      {
+        "question": "Can I book a day pass?",
+        "answer": "Yes, at every location listed here."
+      }
+    ],
+    "propertyCount": 3,
+    "cities": [
+      {
+        "slug": "berlin",
+        "name": "Berlin"
+      }
+    ],
+    "pricePosition": {
+      "verdict": "around",
+      "sampleSize": 3
+    },
+    "asOf": "2026-10-01T06:00:00Z"
+  },
+  "meta": {
+    "contractVersion": "1.0.0",
+    "citation": {
+      "source": "CoworkingView",
+      "title": "Example Operator coworking locations",
+      "url": "https://coworkingview.com/en/brands/example-operator",
+      "accessed": "2026-10-01",
+      "text": "Source: CoworkingView — Example Operator coworking locations, https://coworkingview.com/en/brands/example-operator."
+    },
+    "catalogueNotice": "Catalogue content (descriptions, images, logos, names and prices) belongs to the respective operators and rights holders. No licence to reuse it is granted. You may link to listing pages. Systematic extraction or re-use of the catalogue database is not permitted."
+  }
+}
